@@ -1,34 +1,31 @@
-# dashboard
 
-## Project setup
-```
-npm install
-```
+![Logo](https://github.com/felipereisdev/feedbacker-site/blob/master/src/assets/images/logo_white.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+    
+# Feedbacker (Site)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+A Vue.js 3 app with composition api for feedbacks management.
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+## Screenshots
 
-### Lints and fixes files
-```
-npm run lint
-```
+![App Screenshot](https://github.com/felipereisdev/feedbacker-site/blob/master/screenshots/index.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  
+## Installation
+
+Install feedbacker-site with npm
+
+```bash
+  cd feedbacker-site
+  npm install
+  npm run serve
+```
+    
+## 🛠 Skills
+Vue.js 3, Composition API, Tailwind CSS and others...
+
+  
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
