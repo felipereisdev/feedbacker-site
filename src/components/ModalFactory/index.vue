@@ -19,6 +19,7 @@
       <div
         class="fixed mx-10"
         :class="state.width"
+        @click.stop
       >
         <div
           class="
